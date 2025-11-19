@@ -2,7 +2,7 @@
 
 A simple React application for testing Vite as well as Tailwind CSS features and customization.
 
-<p align="center">![Demo](/assets/showcase.gif)</p>
+![Demo](/assets/showcase.gif)
 
 ## Project purpose
 
