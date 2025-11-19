@@ -2,7 +2,7 @@
 
 A simple React application for testing Vite as well as Tailwind CSS features and customization.
 
-![Demo](/assets/showcase.gif)
+<p align="center">![Demo](/assets/showcase.gif)</p>
 
 ## Project purpose
 
@@ -16,10 +16,10 @@ This project serves as a technical test for:
 - Familiarization with web utility and deployment
 
 ## Available gradients
-All gradients are from [Schemecolor](https://www.schemecolor.com/).
+All gradients are from [Schemecolor](https://www.schemecolor.com/)
 
 ### Base (gray)
-<p align="center"><img src="assets/.jpg" alt="activity"></p>
+<p align="center"><img src="assets/dull-sky-gradient-color-scheme.jpg" alt="activity"></p>
 
 ### Red
 <p align="center"><img src="assets/ocean-red-color-scheme.jpg" alt="activity"></p>
