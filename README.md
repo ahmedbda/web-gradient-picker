@@ -1,13 +1,13 @@
 # Web gradient picker
 
-A simple React application for testing Vite as well as Tailwind CSS features and customization.
+A simple React application for working with Vite as well as Tailwind CSS. Find the website [here](https://web-gradient-picker.vercel.app/)
 
 ![Demo](/assets/showcase.gif)
 
 ## Project purpose
 
 This project serves as a technical test for:
-- React : UI framework
+- React : Javascript library 
 - Tailwind CSS : CSS framework
 - Vite : Build tool
 - Vercel : Online hosting  
