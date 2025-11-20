@@ -2,32 +2,43 @@
 @tailwind components;
 @tailwind utilities;
 
-@keyframes gradientBG {
+@keyframes gradient {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
 
-.gradient-red {
-  background: linear-gradient(270deg, #5E0B0F, #911718, #BE1C17);
+.gradient-gray {
+  background: linear-gradient(-45deg, #e4e4e4, #b1b1b1, #7f7f7f, #5e5e5e);
   background-size: 600% 600%;
-  animation: gradientBG 7s ease infinite;
+  animation: gradient 7s  ease infinite;
+  height: 100vh;
 }
 
-.gradient-green {
-  background: linear-gradient(270deg, #274B07, #70B652, #97C426);
+.gradient-pink {
+  background: linear-gradient(-45deg, #F13484, #FF605D, #FEA959, #FEE27A);
   background-size: 600% 600%;
-  animation: gradientBG 7s ease infinite;
+  animation: gradient 7s  ease infinite;
+  height: 100vh;
+}
+
+.gradient-purple {
+  background: linear-gradient(-45deg, #867cd7, #504794, #41387d, #312b5f);
+  background-size: 600% 600%;
+  animation: gradient 7s  ease infinite;
+  height: 100vh;  
 }
 
 .gradient-blue {
-  background: linear-gradient(270deg, #003C72, #1061B0, #3585DA);
+  background: linear-gradient(-45deg, #6c98cf, #5a82b4, #3a5b83, #2b367d);
   background-size: 600% 600%;
-  animation: gradientBG 7s ease infinite;
+  animation: gradient 7s  ease infinite;
+  height: 100vh;
 }
 
-.gradient-gray {
-  background: linear-gradient(270deg, #8CBDD6, #9BC5DA, #BAD5E1);
+.gradient-rainbow {
+  background: linear-gradient(-45deg, #fcf4c9, #e8befa, #abbfff, #ace5b1);
   background-size: 600% 600%;
-  animation: gradientBG 7s ease infinite;
+  animation: gradient 7s  ease infinite;
+  height: 100vh;
 }

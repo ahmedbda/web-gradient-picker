@@ -1,6 +1,6 @@
 # Web gradient picker
 
-A simple React application for working with Vite as well as Tailwind CSS. Find the website [here](https://web-gradient-picker.vercel.app/)
+A React application with Vite and Tailwind CSS letting the user chose the page background animation from a set of defined gradients. You can find the website [here](https://web-gradient-picker.vercel.app/)
 
 ![Demo](/assets/showcase.gif)
 
@@ -16,16 +16,18 @@ This project serves as a technical test for:
 - Familiarization with web utility and deployment
 
 ## Available gradients
-All gradients are from [Schemecolor](https://www.schemecolor.com/)
 
 ### Base (gray)
-<p align="center"><img src="assets/dull-sky-gradient-color-scheme.jpg" alt="gray"></p>
+<p align="center"><img src="assets/gray.png" alt="gray"></p>
 
-### Red
-<p align="center"><img src="assets/ocean-red-color-scheme.jpg" alt="red"></p>
+### Pink
+<p align="center"><img src="assets/pink.png" alt="pink"></p>
 
-### Green
-<p align="center"><img src="assets/green-field-color-scheme.jpg" alt="green"></p>
+### Purple
+<p align="center"><img src="assets/purple.png" alt="purple"></p>
 
 ### Blue
-<p align="center"><img src="assets/ocean-sky-color-scheme.jpg" alt="blue"></p>
+<p align="center"><img src="assets/blue.png" alt="blue"></p>
+
+### Rainbow
+<p align="center"><img src="assets/rainbow.png" alt="rainbow"></p>
