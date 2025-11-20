@@ -8,7 +8,7 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 
 ![](/assets/showcase.gif)
 
-## Key features & project value
+## Key features
 
 **Dynamic Theming**: Instant switching between animated gradient themes using React useState  
 **Animation**: Smooth background movement with optimized CSS At-rules  
@@ -21,6 +21,9 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 **Tailwind CSS**: CSS framework  
 **Vite**: Fast build tool  
 **Vercel**: Online hosting  
+
+## Project purpose
+This project made me work on the fundamentals of component-based architecture and dynamic state control using with React. Gain proficiency in the utility-first methodology, learning to compose styles quickly, implement responsive design, and configure custom themes for colors and utilities with Tailwind.
 
 ## Available gradients
 
