@@ -41,8 +41,10 @@ I focused on polished details to elevate the user experience:
 
 The application is already loaded with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
 
-| **Base (Gray)** | ![Gray Gradient](./assets/gray.png) |
-| **Pink** | ![Pink Gradient](./assets/pink.png) |
-| **Purple** | ![Purple Gradient](./assets/purple.png) |
-| **Blue** | ![Blue Gradient](./assets/blue.png) |
-| **Rainbow** | ![Rainbow Gradient](./assets/rainbow.png) |
+**Base (Gray)** | **Pink** 
+![](./assets/gray.png) | ![](./assets/pink.png)
+**Purple** | **Blue**
+![](./assets/purple.png) | ![](./assets/blue.png)
+
+**Rainbow** |
+![Rainbow Gradient](./assets/rainbow.png) |
