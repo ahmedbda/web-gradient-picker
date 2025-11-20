@@ -10,34 +10,23 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 
 ## Key features & project value
 
-### Interactivity
-
-The core functionality relies on clean ans functional components. It uses the useState hook to manage the `currentBackground` class, which is a user-controlled interface in React. A single click triggers a state update, instantly rendering the entire page with the new visual style
-
-### UI & animation
-
-The application's UI is built entirely with Tailwind CSS, showcasing my ability to configure and use a utility-first framework. It implements custom color definitions in `tailwind.config.js` for a consistent design system (e.g. `pinkbtn`, `gradient-pink`).
-
-The animation is achieved using a custom CSS `@keyframes` that shifts the background-position on a large gradient (`background-size: 600% 600%`). This technique creates a smooth ans continuous loop
-
-### Interactive UI details
-
-I focused on polished details to elevate the user experience:
-* The control box uses `backdrop-blur-sm` for a modern glass effect that ensures the text remains readable against the changing animated background
-* The "How does it work?" button features a tooltip with smooth transitions (`transition-all duration-500 ease-in-out`) which is managed using the `onMouseEnter` and `onMouseLeave` handlers in the React component
+Dynamic Theming: Instant switching between animated gradient themes using React useState for state management
+Animation: Smooth continuous background movement achieved with highly optimized CSS At-rules
+Modern UI: Transparent control panel with a transparent glass effect and a responsive tooltip
+Tailwind customization: Utilizes a custom Tailwind color palette for maintainable and consistent styling 
 
 ### Technical stack
 
-- React : Javascript library 
-- Tailwind CSS : CSS framework
-- Vite : Build tool
-- Vercel : Online hosting  
+React : Ui design
+Tailwind CSS : CSS framework
+Vite : Fast build tool
+Vercel : Online hosting  
 
 ## Available gradients
 
 The application is already loaded with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
  
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
      <td>Gray (base)</td>
      <td>Pink</td>
