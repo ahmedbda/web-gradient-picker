@@ -11,21 +11,15 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 ## Key features & project value
 
 **Dynamic Theming**: Instant switching between animated gradient themes using React useState
-
 **Animation**: Smooth background movement with optimized CSS At-rules
-
 **Modern UI**: Transparent control panel with a glass effect and a responsive tooltip
-
 **Customization**: Custom Tailwind color palette for maintainable and consistent styling
 
 ## Technical stack
 
 **React**: UI design
-
 **Tailwind CSS**: CSS framework
-
 **Vite**: Fast build tool
-
 **Vercel**: Online hosting
 
 ## Available gradients
