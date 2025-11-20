@@ -13,7 +13,7 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 Dynamic Theming: Instant switching between animated gradient themes using React useState for state management</br>
 Animation: Smooth continuous background movement achieved with highly optimized CSS At-rules</br>
 Modern UI: Transparent control panel with a transparent glass effect and a responsive tooltip</br>
-Tailwind customization: Utilizes a custom Tailwind color palette for maintainable and consistent styling</br>
+Customization: Utilizes a custom Tailwind color palette for maintainable and consistent styling</br>
 
 ### Technical stack
 
@@ -26,19 +26,7 @@ Vercel: Online hosting</br>
 
 The application is already loaded with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
  
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-     <td>Gray (base)</td>
-     <td>Pink</td>
-     <td>Purple</td>
-     <td>Blue</td>
-     <td>Rainbow</td>
-  </tr>
-  <tr>
-    <td><img src="assets/gray.png"></td>
-    <td><img src="assets/pink.png"></td>
-    <td><img src="assets/purple.png"></td>
-    <td><img src="assets/blue.png"></td>
-    <td><img src="assets/rainbow.png"></td>
-  </tr>
- </table>
+
+| Gray (base) | Pink | Purple | Blue | Rainbow |
+:--------------:|:-------------:|:-------------:|:-------------:|:--------------:
+| ![](assets/gray.png) | ![](assets/pink.png)  | ![](assets/purple.png)  | ![](assets/blue.png)  | ![](assets/rainbow.png)  |
