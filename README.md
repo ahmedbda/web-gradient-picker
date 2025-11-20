@@ -8,7 +8,6 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 
 ![Demo](/assets/showcase.gif)
 
-
 ## Key features & project value
 
 ### Interactivity
@@ -33,18 +32,24 @@ I focused on polished details to elevate the user experience:
 - Tailwind CSS : CSS framework
 - Vite : Build tool
 - Vercel : Online hosting  
-- Responsive design and custom component development
-- Frontend deployment
-- Familiarization with web utility and deployment
 
 ## Available gradients
 
 The application is already loaded with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
-
-**Base (Gray)** | **Pink** 
-![](./assets/gray.png) | ![](./assets/pink.png)
-**Purple** | **Blue**
-![](./assets/purple.png) | ![](./assets/blue.png)
-
-**Rainbow** |
-![Rainbow Gradient](./assets/rainbow.png) |
+ 
+<table>
+  <tr>
+     <td>Gray (base)</td>
+     <td>Pink</td>
+     <td>Purple</td>
+     <td>Blue</td>
+     <td>Rainbow</td>
+  </tr>
+  <tr>
+    <td><img src="assets/gray.png"></td>
+    <td><img src="assets/pink.png"></td>
+    <td><img src="assets/purple.png"></td>
+    <td><img src="assets/blue.png"></td>
+    <td><img src="assets/rainbow.png"></td>
+  </tr>
+ </table>
