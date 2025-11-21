@@ -1,29 +1,24 @@
 # Web Gradient Picker
-
-Clean, interactive React single-page application (SPA) with Vite and Tailwind CSS letting the user chose the page background animation from a set of defined gradients
+Interactive React single-page application (SPA) with Vite and Tailwind CSS letting the user chose the page background animation from a set of defined gradients
 
 ## Demonstration
-
 You can find the website [here](https://web-gradient-picker.vercel.app/)
 
 ![](/assets/showcase.gif)
 
 ## Key features
-
 * **Dynamic Theming:** Instant switching between animated gradient themes  
-* **Animation:** Smooth background movement with optimized  
+* **Animation:** Smooth background movement with optimized keyframe movement  
 * **Modern UI:** Transparent control panel with a glass effect and a responsive tooltip  
-* **Customization:** Custom Tailwind color palette for maintainable and consistent styling  
+* **Customization:** Custom color palette for maintainable and consistent styling  
 
 ## Project purpose
-This project made me work on the fundamentals of component-based architecture and dynamic state control with React and gain proficiency in the utility-first methodology, learning to compose styles quickly, implement responsive design, and configure custom themes for colors and utilities with Tailwind  
+This project made me work on the fundamentals of component-based architecture and dynamic state control with React as well as gain proficiency in the utility-first methodology, learning to compose styles quickly, implement responsive design, and configure custom themes for colors and utilities with Tailwind  
 
 Technologies Used: React, Tailwind CSS, Vite, Vercel
 
 ## Available gradients
-
-The application is already loaded with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
- 
+The application comes with five uniquely designed color themes, all from [Schemecolor](https://www.schemecolor.com/)
 
 | Gray (base) | Pink | Purple | Blue | Rainbow |
 :-------:|:-------:|:-------:|:-------:|:-------:
