@@ -1,4 +1,4 @@
-# Web Gradient Picker
+# Web gradient picker
 A very simple and interactive React single-page application with Vite and Tailwind CSS letting the user chose the page background animation from a set of defined gradients
 
 ## Demonstration
