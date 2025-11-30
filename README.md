@@ -14,9 +14,9 @@ You can find the website [here](https://web-gradient-picker.vercel.app/)
 * Technologies Used: React, Tailwind CSS, Vite and Vercel
 
 ## Project purpose
-This project was made to make me work on my web development skills 
+This project was made to work on my web development skills 
 
-It made me work on the fundamentals of component-based architecture and discover dynamic state control with React as well as learn to compose styles quickly, implement responsive design and configure custom themes for colors and utilities with Tailwind  
+It made me discover and work with basic dynamic state control with React as well as learn to compose styles quickly, implement responsive design and configure custom themes for colors and utilities with Tailwind  
 
 ## Available gradients
 The application comes with five uniquely designed color themes, all gradient color codes from [Schemecolor](https://www.schemecolor.com/)
