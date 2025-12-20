@@ -61,9 +61,9 @@ function App() {
               Click on the buttons above this one to<br />change the page's background gradient!
               <div className="absolute w-2 h-2 bg-gray-800/90 backdrop-blur-sm transform rotate-45 top-[-4px] left-1/2 -translate-x-1/2"></div>
             </div>
-        )}<br>
+        )}<br />
            
-        <a className="text-4xl text-white font-bold text-title mb-2" href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
+        <a className="text-descriptiontext text-white font-semibold text-l" href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
         
         </div>
 
