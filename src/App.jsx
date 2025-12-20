@@ -12,7 +12,6 @@ function App() {
   };
 
   return (
-    <>
     <div className={`min-h-screen flex flex-col items-center justify-center ${currentBackground}`}>
       <div className="bg-white/10 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center relative">
         <h1 className="text-4xl text-white font-bold text-title mb-2">
@@ -66,11 +65,10 @@ function App() {
         </div>
 
       </div>
-    </div>
       <footer>
-    <p> <a className="text-descriptiontext text-white font-semibold text-l mt-2 font-bold underline" href="https://github.com/ahmedbda/web-gradient-picker"> Source code </a> </p>
+    <p> <a className="text-descriptiontext text-white font-semibold text-l underline" href="https://github.com/ahmedbda/web-gradient-picker"> Source code </a> </p>
   </footer>
-    </>
+    </div>
   );
 }
 
