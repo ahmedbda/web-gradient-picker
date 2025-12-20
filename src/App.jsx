@@ -12,7 +12,7 @@ function App() {
   };
 
   return (
-    <div className={`min-h-screen flex flex-col items-center justify-between${currentBackground}`}>
+    <div className={`min-h-screen flex flex-col items-center justify-between p-1 ${currentBackground}`}>
       
       <div className="flex-grow flex items-center justify-center">
         <div className="bg-white/10 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center relative">
