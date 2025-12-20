@@ -57,13 +57,13 @@ function App() {
           </button>
 
           {isHovered && (
-            <div className="absolute z-10 px-3 py-2 text-sm font-medium text-tooltiptext bg-gray-800/90 backdrop-blur-sm rounded-lg top-full mt-2 left-1/2 transform -translate-x-1/2 whitespace-nowrap">
+            <div className="absolute z-10 px-3 py-2 text-sm font-medium text-tooltiptext bg-gray-800/90 backdrop-blur-sm rounded-lg top-full mt-2 mb-2 left-1/2 transform -translate-x-1/2 whitespace-nowrap">
               Click on the buttons above this one to<br />change the page's background gradient!
               <div className="absolute w-2 h-2 bg-gray-800/90 backdrop-blur-sm transform rotate-45 top-[-4px] left-1/2 -translate-x-1/2"></div>
             </div>
         )}<br />
            
-        <a className="text-descriptiontext text-white font-semibold text-l mt-2 underline" href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
+        <a className="text-descriptiontext text-white font-semibold text-l mt-2 font-bold underline" href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
         
         </div>
 
