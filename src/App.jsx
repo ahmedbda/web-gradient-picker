@@ -63,7 +63,7 @@ function App() {
             </div>
         )}<br>
            
-        <a href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
+        <a className="text-4xl text-white font-bold text-title mb-2" href="https://github.com/ahmedbda/web-gradient-picker">Source code</a>
         
         </div>
 
