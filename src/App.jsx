@@ -63,9 +63,9 @@ function App() {
         </div>
       </div>
 
-      <footer className="w-full text-center pb-4">
+      <footer className="w-full text-center">
         <p> 
-          <a className="text-descriptiontext text-white font-semibold text-l underline opacity-80 hover:opacity-100 transition-opacity" 
+          <a className="text-descriptiontext text-white font-semibold text-l underline" 
              href="https://github.com/ahmedbda/web-gradient-picker"> 
             Source code 
           </a> 
